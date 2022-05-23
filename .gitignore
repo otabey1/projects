@@ -119,6 +119,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+.media
+.dbsqlite.db
 
 # mypy
 .mypy_cache/
